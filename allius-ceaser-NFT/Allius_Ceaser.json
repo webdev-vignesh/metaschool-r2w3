@@ -1,0 +1,18 @@
+{
+	"name":"Allius Ceaser",
+	"description":"Leader of Jigarthanda Sambava Club",
+	"image":"https://harlequin-tiny-vole-510.mypinata.cloud/ipfs/QmVtHH7RkSBHaRPWPC7Jqt2uCToKdrbHFyTFBZwmwmKd1p",
+
+	"attributes":
+	[
+		{
+			"trait_type":"Zodiac","value":"Cancer"
+		},
+		{
+			"trait_type":"Height","value":"6'1"
+		},
+		{	"trait_type":"Personality Type","value":"INTJ"
+		}
+	]
+}
+
